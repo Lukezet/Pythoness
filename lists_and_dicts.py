@@ -1,5 +1,5 @@
 def run():
-    flist=[7, "YAnEZ", True,23.3]
+    flist=[7, "YANEZ", True,23.3]
     fdicc={"First Name":"Lucas", "Surname":"Yanez"}
     
     super_list=[
