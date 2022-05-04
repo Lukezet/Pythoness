@@ -1,7 +1,7 @@
 from functools import reduce
 my_list=[1,2,3,4,5]
 #Una Funcion de Orden Superior es una funcion que dentro lleva otra funcion, ej:
-def saludo(func):
+def saludo(func):          #  high order function
     func()
 def hola():
     print("Hola GATOS!!")
@@ -9,6 +9,7 @@ def Adios():
     print("Chau perritas")
 saludo(hola)
 saludo(Adios)
+#Existen tres HOF que son mundialmente conocidas -->  Filter . Map . Reduce
 
 #FUNCION FILTER
 my_list=[1,2,3,4,5]

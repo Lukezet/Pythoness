@@ -15,7 +15,7 @@ DATA = [
     },
     {
         'name': 'Héctor',
-        'age': 19,
+        'age': 65,
         'organization': 'Platzi',
         'position': 'Associate',
         'language': 'ruby',
@@ -46,7 +46,7 @@ DATA = [
         'age': 32,
         'organization': 'Rappi',
         'position': 'Support',
-        'language': '',
+        'language': 'javascript',
     },
     {
         'name': 'Juan',
@@ -64,7 +64,7 @@ DATA = [
     },
     {
         'name': 'Lorena',
-        'age': 56,
+        'age': 63,
         'organization': 'Python Organization',
         'position': 'Language Maker',
         'language': 'python',
